@@ -1,0 +1,3 @@
+C:/Users/haris/OneDrive/Desktop/Kapital2/cmake-build-debug/CMakeFiles/Kapital2.dir
+C:/Users/haris/OneDrive/Desktop/Kapital2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/haris/OneDrive/Desktop/Kapital2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
